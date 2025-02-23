@@ -1,4 +1,5 @@
 
-OpenGL | C++ | Game Engine Project
+OpenGL 3.3+ | C++ | Game Engine Project
 
-![Ekran Görüntüsü (88)](https://github.com/user-attachments/assets/43d01864-00e6-4048-840b-de4d2427e843)
+![Ekran Görüntüsü (88)](https://github.com/user-attachments/assets/c1c277bd-6f6d-44b0-9fc8-93f893d53529)
+
