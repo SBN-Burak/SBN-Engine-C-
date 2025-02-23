@@ -1,0 +1,18 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\Burak\Documents\Visual Studio 2019\Projeler\Oyun Motoru Projem\Oyun Motoru Projem\main.cpp(415): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Burak\Documents\Visual Studio 2019\Projeler\Oyun Motoru Projem\Oyun Motoru Projem\main.cpp(614): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Burak\Documents\Visual Studio 2019\Projeler\Oyun Motoru Projem\Oyun Motoru Projem\main.cpp(615): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Burak\Documents\Visual Studio 2019\Projeler\Oyun Motoru Projem\Oyun Motoru Projem\main.cpp(625): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Burak\Documents\Visual Studio 2019\Projeler\Oyun Motoru Projem\Oyun Motoru Projem\main.cpp(709): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Burak\Documents\Visual Studio 2019\Projeler\Oyun Motoru Projem\Oyun Motoru Projem\main.cpp(710): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Burak\Documents\Visual Studio 2019\Projeler\Oyun Motoru Projem\Oyun Motoru Projem\main.cpp(762): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Burak\Documents\Visual Studio 2019\Projeler\Oyun Motoru Projem\Debug\vc120.pdb'; linking object as if no debug info
+  Oyun Motoru Projem.vcxproj -> C:\Users\Burak\Documents\Visual Studio 2019\Projeler\Oyun Motoru Projem\Debug\Oyun Motoru Projem.exe
